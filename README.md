@@ -8,8 +8,8 @@ _Disclaimer: I am not a software engineer, my code sucks, and I am dumb._
 
 ### Use Cases (WIP)
 1. **Topic Listening:** Given a topic (i.e. protocol name, EIP, company name, feature name) - answer "what is the current meta & how has it changed over time?"
-  2. Understand overall sentiment, key related terms, sentiment among related terms. Who are the top influencers on each end of the sentiment & what terms do they use? Have any dates or topics led to a sentiment flip?
-3. **Event Tracking:** Given some event topics (i.e. protocol release, token distribution, funding announcements) - similarly answer "what is the impact?" or "what is going rught/wrong?" driven by social sentiment. Potentially also tied to onchain activity insights?
+  a. Understand overall sentiment, key related terms, sentiment among related terms. Who are the top influencers on each end of the sentiment & what terms do they use? Have any dates or topics led to a sentiment flip?
+2. **Event Tracking:** Given some event topics (i.e. protocol release, token distribution, funding announcements) - similarly answer "what is the impact?" or "what is going rught/wrong?" driven by social sentiment. Potentially also tied to onchain activity insights?
 
  #### Examples
 - "EIP4844 sentiment is 70% positive (+10 pts month-over-month) driven byan uptick in user transaction fees commentary, led by *[X, Y, Z people]*, who all are frequent *[1, 2, 3 onchain signals]*. The 10% negative sentiment  (flat month-over-month) calls out node requirements, and state bloat, led by conversation from *[A, B, C people]* who all similarly share *[1, 2, 3 onchain signals]*. Neutral sentiment (20%) focuses on protocol specs and development timelines. The majority of this topic conversation happens in the *[op-stack]* Warpcast channel."

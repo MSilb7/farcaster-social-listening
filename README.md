@@ -8,7 +8,7 @@ _Disclaimer: I am not a software engineer, my code sucks, and I am dumb._
 
 ### Use Cases (WIP)
 1. **Topic Listening:** Given a topic (i.e. protocol name, EIP, company name, feature name) - answer "what is the current meta & how has it changed over time?"
-   i. Understand overall sentiment, key related terms, sentiment among related terms. Who are the top influencers on each end of the sentiment & what terms do they use? Have any dates or topics led to a sentiment flip?
+   1. Understand overall sentiment, key related terms, sentiment among related terms. Who are the top influencers on each end of the sentiment & what terms do they use? Have any dates or topics led to a sentiment flip?
 2. **Event Tracking:** Given some event topics (i.e. protocol release, token distribution, funding announcements) - similarly answer "what is the impact?" or "what is going rught/wrong?" driven by social sentiment. Potentially also tied to onchain activity insights?
 
  #### Examples
